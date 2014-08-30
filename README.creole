@@ -1,3 +1,5 @@
 = Hey! =
 
-I'm silly and didn't fork this, it's a modified version of [[https://github.com/rmmh/skybot/|Skybot]], so go check that out if you're after a Python based IRC bot.
+I'm not and forked this, it's a modified version of
+[[https://github.com/rmmh/skybot/|Skybot]], so go check that out cos this one
+will be specifc to my needs.
